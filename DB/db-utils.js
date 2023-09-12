@@ -50,4 +50,5 @@ export {
   getOneEntity,
   getOneTicket,
   getOneEntityHis,
+  getOneEntityHisno
 };
